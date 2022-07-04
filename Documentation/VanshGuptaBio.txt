@@ -1,0 +1,4 @@
+Hi! My name is Vansh Gupta.
+I am currently majoring in Software Engineering.
+I love to Dance and play Field Hockey. 
+I am currently working on "PlanIt", which is a customized note-maker web-application.

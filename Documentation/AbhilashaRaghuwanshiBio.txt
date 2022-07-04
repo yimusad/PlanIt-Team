@@ -1,0 +1,4 @@
+Hi, my name is Abhilasha Raghuwanshi.
+I am a pre-junior at Drexel University majoring in Data Science with a minor in Biological Science.
+I enjoy gardening and plant care, and am learing how to oil paint recently.
+I am working on the project "Planit" which is a web application to help create a custom planner.

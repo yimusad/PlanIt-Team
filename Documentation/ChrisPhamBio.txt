@@ -1,0 +1,4 @@
+I am a student at Drexel University majoring in Computer Science with no specific focus on one concentration. I am well-versed in
+operating systems such as Windows and Mac OS and I am able to work with computer languages such as HTML and JavaScript. I am 
+currently working on a web-application with my peers which will allow for better time-management and achieving better 
+organization.
